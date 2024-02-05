@@ -13,7 +13,7 @@ RESOURCES
 
 - spring-framework-02
     - game: 5 Java, 1 Interface (Simple Gamming App)
-    - example
+    - example <br/>
         a1: DepedencyInjection
         b1: SimpleSpringContext
         c1: SpringContext, Calculator App
