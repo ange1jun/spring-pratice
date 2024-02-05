@@ -4,6 +4,8 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
+import java.util.Arrays;
+
 @Configuration
 @ComponentScan
 public class SpringContextApplicaiton {
@@ -14,8 +16,8 @@ public class SpringContextApplicaiton {
                      new AnnotationConfigApplicationContext
                              (SpringContextApplicaiton.class)) {
 
-//            Arrays.stream(context.getBeanDefinitionNames())
-//                    .forEach(System.out::println);
+            Arrays.stream(context.getBeanDefinitionNames())
+                    .forEach(System.out::println);
 
             System.out.println("************************************");
 

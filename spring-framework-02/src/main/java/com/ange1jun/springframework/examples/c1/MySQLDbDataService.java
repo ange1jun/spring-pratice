@@ -1,8 +1,10 @@
 package com.ange1jun.springframework.examples.c1;
 
 import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Repository;
 
-@Component
+//@Component
+@Repository
 public class MySQLDbDataService implements DataService {
     @Override
     public int[] retrieveData() {
