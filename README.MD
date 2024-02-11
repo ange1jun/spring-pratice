@@ -14,13 +14,22 @@ RESOURCES
 - spring-framework-02
     - game: 5 Java, 1 Interface (Simple Gamming App)
     - example <br/>
-            a1: DepedencyInjection <br/>
-            b1: SimpleSpringContext <br/>
-            c1: SpringContext, Calculator App <br/>
-            d1: Lazyinitializaion <br/>
-            e1: BeanScopes <br/>
-            f1: PreConstruct, PreDestroy <br/>
-            g1: Jakarta CDI (Contexts & Dependency Injection) <br/>
-            h1: XML Configurtaion <br/> 
+    a1: DepedencyInjection <br/>
+    b1: SimpleSpringContext <br/>
+    c1: SpringContext, Calculator App <br/>
+    d1: Lazyinitializaion <br/>
+    e1: BeanScopes <br/>
+    f1: PreConstruct, PreDestroy <br/>
+    g1: Jakarta CDI (Contexts & Dependency Injection) <br/>
+    h1: XML Configurtaion <br/> 
 
+- learn-springboot
+    /src/main/resources
+    - use Profiles (Multi application.properties) <br/>
+    
+    /src/main (Springboot)
+    - @ConfigurationProperties 
+    - Springboot actuator <br/>
 
+    /target (Embedded Server)
+    - Maven build
