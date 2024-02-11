@@ -2,6 +2,7 @@ ENV
 ---
 - JAVA 17
 - Springframework
+- IntelliJ Ultimate
 
 
 RESOURCES
