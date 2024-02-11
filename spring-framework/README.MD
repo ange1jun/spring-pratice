@@ -4,7 +4,6 @@ ENV
 - Springframework
 - IntelliJ Ultimate
 
-
 RESOURCES
 ---
 - game: 4 Java, 1 Interface (Simple Gamming App)
