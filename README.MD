@@ -1,4 +1,4 @@
-USE
+ENV
 ---
 - JAVA 17
 - Spring Framework 6
@@ -23,4 +23,4 @@ RESOURCES
         g1: Jakarta CDI (Contexts & Dependency Injection) <br/>
         h1: XML Configurtaion <br/> 
 
-        
+
