@@ -1,10 +1,9 @@
 ENV
 ---
-- JAVA 21
-- Spring Framework
-- Springboot
-    Spirng-boot-starter-web
-    Spring-boot-starter-test
-    Spring-boot-starter-actuator
-    Spring-boot-devtools
+- JAVA 21 (17 -> 21)
+- Springboot-starter-web
+- Springboot-starter-actuator
+- Springboot-devtools 
+- Maven Build 
 - IntelliJ Ultimate
+ 
