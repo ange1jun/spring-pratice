@@ -1,4 +1,4 @@
-package com.ange1jun.springframework.examples.a0;
+package com.ange1jun.springframework.examples.a1;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

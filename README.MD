@@ -21,4 +21,6 @@ RESOURCES
         e1: BeanScopes <br/>
         f1: PreConstruct, PreDestroy <br/>
         g1: Jakarta CDI (Contexts & Dependency Injection) <br/>
-        h1: XML Configurtaion <br/>
+        h1: XML Configurtaion <br/> 
+
+        

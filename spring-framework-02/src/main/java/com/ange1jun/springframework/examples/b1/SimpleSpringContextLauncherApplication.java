@@ -1,4 +1,4 @@
-package com.ange1jun.springframework.examples.a1;
+package com.ange1jun.springframework.examples.b1;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
