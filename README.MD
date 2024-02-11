@@ -23,7 +23,7 @@ RESOURCES
     g1: Jakarta CDI (Contexts & Dependency Injection) <br/>
     h1: XML Configurtaion <br/> 
 
-- learn-springboot <br/>
+- learn-springboot <br/><br/>
     /src/main/resources
     - use Profiles (Multi application.properties) <br/>
     
