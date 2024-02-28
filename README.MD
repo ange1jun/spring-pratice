@@ -33,3 +33,8 @@ RESOURCES
 
     /target (Embedded Server)
     - Maven build
+
+- jpa-and-hibernate
+    - use H2 Console
+    - use JDBC, Spring JDBC
+    - use JPA, Spring Data JPA
