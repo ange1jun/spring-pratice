@@ -38,3 +38,9 @@ RESOURCES
     - use H2 Console
     - use JDBC, Spring JDBC
     - use JPA, Spring Data JPA
+
+- WebApp (Todo)
+    - use H2 
+    - use mysql, spring boot data Jpa, JSTL
+    - use SpringSecurity
+    - Controller (MVC pattern, View Resolver)
